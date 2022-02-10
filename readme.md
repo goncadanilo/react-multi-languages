@@ -19,9 +19,8 @@
 
 <br>
 
-<p align="center">
+https://user-images.githubusercontent.com/53796755/153449477-3b06ac83-1e24-49eb-a160-9379d57c6074.mp4
 
-</p>
 
 ## 🚀 Tecnologias
 
