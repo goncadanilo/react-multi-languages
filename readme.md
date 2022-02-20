@@ -46,7 +46,7 @@ Você pode acessar o resultado final [aqui](https://react-languages.netlify.app/
 ### 🗂 Faça um clone do projeto
 
 ```bash
-$ git clone https://github.com/goncadanilo/react-multi-languages
+$ git clone https://github.com/goncadanilo/react-multi-languages.git
 ```
 
 ### 📥 Instale as dependências
